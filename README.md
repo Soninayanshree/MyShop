@@ -3,7 +3,6 @@
 A modern, responsive **e-commerce web application** built with React, featuring product browsing, shopping cart functionality, and a seamless checkout experience.
 
 ---
-Live link : my-shop-sigma-blush.vercel.app
 
 ## ✨ Features
 
