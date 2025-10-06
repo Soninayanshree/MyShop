@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Classic White T-Shirt",
+    "price": 499,
+    "category": "Men",
+    "description": "Soft cotton round-neck T-shirt in white.",
+    "image": "/images/tshirt1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Blue Denim Jeans",
+    "price": 1499,
+    "category": "Men",
+    "description": "Slim fit blue denim jeans with a modern cut.",
+    "image": "/images/jeans1.jpg"
+  },
+  {
+    "id": 3,
+    "name": "White Dress",
+    "price": 1999,
+    "category": "Women",
+    "description": "Lightweight white dress perfect for summer outings.",
+    "image": "/images/dress1.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Blue Skirt",
+    "price": 3999,
+    "category": "Women",
+    "description": "Stylish blue skirt for women.",
+    "image": "/images/skirt1.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Hoodie",
+    "price": 899,
+    "category": "Men",
+    "description": "Cozy hoodie for men, available in multiple colors.",
+    "image": "/images/hoodie1.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Sneakers",
+    "price": 2499,
+    "category": "Accessories",
+    "description": "Comfortable sneakers for everyday wear.",
+    "image": "/images/sneakers1.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Leather Belt",
+    "price": 699,
+    "category": "Accessories",
+    "description": "Brown genuine leather belt with metal buckle.",
+    "image": "/images/belt1.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Silk Scarf",
+    "price": 599,
+    "category": "Accessories",
+    "description": "Elegant silk scarf with floral patterns.",
+    "image": "/images/scarf1.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Formal Shoes",
+    "price": 2999,
+    "category": "Men",
+    "description": "Polished formal shoes suitable for office wear.",
+    "image": "/images/shoes1.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Blue Checks Shirt",
+    "price": 1299,
+    "category": "Men",
+    "description": "Crisp blue checks shirt with a tailored fit.",
+    "image": "/images/shirt1.jpg"
+  }
+]
